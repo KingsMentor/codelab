@@ -6,8 +6,8 @@
   "showLastUpdate": false,
   "flavor":"github",
   "steps": [
-    "introduction",
-    "using gradle"
+    "using gradle",
+     "introduction"
   ],
   "using gradle": {
     "label": "Updating gradle."
