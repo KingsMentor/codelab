@@ -1,22 +1,13 @@
+
 {
-  "title": "This is the Title of the App",
-  "feedback_link": "http://example.google.com",
+  "title": "Building Smaller Apks",
+  "home":"http://belvi.xyz",
+  "feedback_link": "http://belvi.xyz",
+  "showLastUpdate": false,
   "steps": [
-    "step1",
-    "step2",
-    "step3",
-    "step4"
+    "step1"
   ],
   "step1": {
-    "label": "Learning how to do this."
-  },
-  "step2": {
-    "label": "Sample Step 2"
-  },
-  "step3": {
-    "label": "Sample Step 3"
-  },
-  "step4": {
-    "label": "Sample Step 4"
+    "label": "Updating gradle."
   }
 }
