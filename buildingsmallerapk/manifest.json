@@ -3,7 +3,7 @@
   "title": "Building Smaller Apks",
   "home":"http://belvi.xyz",
   "feedback_link": "http://belvi.xyz",
-  "showLastUpdate": false,
+  "showLastUpdate": true,
   "flavor":"github",
   "steps": [
     "introduction",
