@@ -6,9 +6,13 @@
   "showLastUpdate": false,
   "flavor":"github",
   "steps": [
-    "step1"
+    "introduction",
+    "using gradle"
   ],
-  "step1": {
+  "using gradle": {
     "label": "Updating gradle."
+  },
+  "introduction": {
+    "label": "Getting started with shrinking apk size."
   }
 }
