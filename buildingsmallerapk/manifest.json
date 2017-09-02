@@ -4,6 +4,7 @@
   "home":"http://belvi.xyz",
   "feedback_link": "http://belvi.xyz",
   "showLastUpdate": false,
+  "flavor":"github"
   "steps": [
     "step1"
   ],
