@@ -6,4 +6,4 @@ This codelab covers:<br>
 We all know why the application size is very important. APK size can be looked at two dimension. 
 1. **Download Size** - It is size of the application in the Play Store and it gets delivered to the device. This size is highly compressed.
 2. **Installed size** - Installed size is when you download the app and unpack it. Install size is two to three times bigger than the download size.<br/><br>
-![dimension of apk](https://github.com/KingsMentor/codelab/blob/master/buildingsmallerapk/imgs/apk_dimensions.jpeg)
+![https://github.com/KingsMentor/codelab/blob/master/buildingsmallerapk/imgs/apk_dimensions.jpeg](https://github.com/KingsMentor/codelab/blob/master/buildingsmallerapk/imgs/apk_dimensions.jpeg)
