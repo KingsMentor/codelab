@@ -15,7 +15,7 @@ This strips away all other string files that could’ve been added by other libr
 ```gradle
   defaultConfig { 
   …
-  resConfigs “en”, “es”, “ja”, “in” 
+  resConfigs "en", "es", "ja", "in" 
   …
 }
 ```
