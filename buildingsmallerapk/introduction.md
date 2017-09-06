@@ -16,10 +16,11 @@ We all know why the application size is very important. APK size can be looked a
 
 Notice that there are two columns with size information. 
 
-1. Raw file size - The Raw file size is how much every particular item contribute to the size of APK as a file on disk.
-2. Download size - The second is download size which represent how much bytes the user will actually have to download from Play Store on order to install the app for the first time
+1. **Raw file size** - The Raw file size is how much every particular item contribute to the size of APK as a file on disk.
+2. **Download size** - The second is download size which represent how much bytes the user will actually have to download from Play Store on order to install the app for the first time
 
-As you can see, `libs` (dependencies being used on this project) contribute about 20mb to the final size and for `resources` these numbers aren’t very far apart because resources are dominated bye large PNG we have for drawables and can’t be further compressed. Whereas for some other items the gains from compression are higher. 
+As you can see, `libs` (dependencies being used on this project) contribute about `20mb` to the final size and for `resources` these numbers aren’t very far apart because resources are dominated bye large PNG we have for drawables and can’t be further compressed. Whereas for some other items the gains from compression are higher. 
 
-<aside class="special"><p>There is an important point that optimizing your own app size begins with sort of finding out what’s in it and tailoring to that.</p></aside>
+Next, I am going to show a how a bunch of tricks and their impact on app size. I will be runing through series of best pratices and analysing the output apk at every point in time.
 
+<aside class="special"><p>There is an important point that optimizing your own app size begins with sort of finding out what’s in it and tailoring to that - **Your milage may vary**.</p></aside>
