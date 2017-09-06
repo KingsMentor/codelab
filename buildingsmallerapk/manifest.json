@@ -8,7 +8,12 @@
   "steps": [
     "introduction",
     "update proguard",
-    "enable_resource_shrinking"
+    "enable_resource_shrinking",
+    "build_multiple_apk",
+    "use_vector_drawable",
+    "exclude_sparse_translation",
+    "use_downloadable_fonts",
+    "use_android_asset_packaging_tool"
   ],
   "introduction": {
     "label": "Introduction."
@@ -18,5 +23,21 @@
   },
   "enable_resource_shrinking": {
     "label": "Enable Resource Shrinking."
+  },
+  "build_multiple_apk": {
+    "label": "Build Multiple Apk."
+  },
+  "use_vector_drawable": {
+    "label": "Use Vector Drawable."
+  },
+  "exclude_sparse_translation": {
+    "label": "Exclude sparse translation."
+  },
+  "use_downloadable_fonts": {
+    "label": "Use Downloadable Fonts."
+  },
+  "use_android_asset_packaging_tool": {
+    "label": "Android Asset Packaging Tool 2."
   }
+
 }
