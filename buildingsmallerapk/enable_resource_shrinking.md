@@ -6,3 +6,7 @@ shrinkingResources true
 
 # Results
 Here is the result so far on implementing this step.
+
+As you can see, I've been able to reduces the apk size by just 2 tricks so far, and there's more
+
+
