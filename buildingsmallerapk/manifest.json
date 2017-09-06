@@ -13,7 +13,8 @@
     "use_vector_drawable",
     "exclude_sparse_translation",
     "use_downloadable_fonts",
-    "use_android_asset_packaging_tool"
+    "use_android_asset_packaging_tool",
+    "goole_play_app_signing"
   ],
   "introduction": {
     "label": "Introduction."
@@ -38,6 +39,9 @@
   },
   "use_android_asset_packaging_tool": {
     "label": "Android Asset Packaging Tool 2."
+  },
+  "goole_play_app_signing": {
+    "label": "Google Play App Signing Program."
   }
 
 }
