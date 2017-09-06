@@ -23,4 +23,4 @@ As you can see, `libs` (dependencies being used on this project) contribute abou
 
 Next, I am going to show a how a bunch of tricks and their impact on app size. I will be runing through series of best pratices and analysing the output apk at every point in time.
 
-<aside class="special"><p>There is an important point that optimizing your own app size begins with sort of finding out what’s in it and tailoring to that - **Your milage may vary**.</p></aside>
+<aside class="special"><p>There is an important point that optimizing your own app size begins with sort of finding out what’s in it and tailoring to that.<b>Your milage may vary<b> .</p></aside>
