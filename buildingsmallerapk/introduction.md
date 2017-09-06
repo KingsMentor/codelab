@@ -2,4 +2,8 @@ There are things to really care about for the success of your app. Apk size happ
 This codelab covers:<br>
 * Series of Best practices on how to reduce your apk size (Tools and Features to help you achieve this)
 
-## Dimensions of APK
+## Dimensions of APK Size
+We all know why the application size is very important. APK size can be looked at two dimension. 
+1. **Download Size** - It is size of the application in the Play Store and it gets delivered to the device. This size is highly compressed.
+2. **Installed size** - Installed size is when you download the app and unpack it. Install size is two to three times bigger than the download size.<br/><br>
+![dimension of apk](https://github.com/KingsMentor/codelab/blob/master/buildingsmallerapk/imgs/apk_dimensions.jpeg)
