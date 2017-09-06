@@ -7,12 +7,16 @@
   "flavor":"github",
   "steps": [
     "introduction",
-    "update proguard"
+    "update proguard",
+    "enable_resource_shrinking"
   ],
   "introduction": {
     "label": "Introduction."
   },
   "update proguard": {
     "label": "Use Proguard."
+  },
+  "enable_resource_shrinking": {
+    "label": "Enable Resource Shrinking."
   }
 }
