@@ -11,6 +11,7 @@ Links mentioned in the codelab are indeed helpful. Do try them out. Here's a rec
 [Material Design Icons](https://materialdesignicons.com/)
 [Understanding VectorDrawable pathData commands in Android](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts.html)
 [Understanding Downloadable Fonts](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts.html)
+[Google Play App Signing and Performance](https://support.google.com/googleplay/android-developer/answer/7384423?hl=en)
 [Shrink Your Code and Resources](https://developer.android.com/studio/build/shrink-code.html)
 [Best Practices to Slim Down Your App Size (Google I/O '17)](https://www.youtube.com/watch?v=5tdGAP927dk)
 [Securing and Optimizing Your App with Google Play App Signing (Google I/O '17)](https://www.youtube.com/watch?v=AdfKNgyT438&t=451s)
