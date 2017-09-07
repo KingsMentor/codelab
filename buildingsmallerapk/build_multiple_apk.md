@@ -28,14 +28,16 @@ This is especially useful if your project includes libraries written in native c
 ```gradle
 android {
 ...
-splits {
-    abi {
-        enable true
-        reset()
-        include 'x86', 'armeabi-v7a', 'mips'
-        universalApk false
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'x86', 'armeabi-v7a', 'mips'
+            universalApk false
+        }
     }
-}
+...
+
 }
 ```
 
@@ -45,15 +47,14 @@ Using this you can produce multiple APKs split by the density of the device so t
 
 ```gradle
 android {
-… 
-  splits {
-   abi {
-enable true
-reset()
-include 'mdpi', 'hdpi', 'xhdpi', 'xxhdpi', ‘xxxhdpi’
-compatibleScreens 'small', 'normal', 'large', 'xlarge’
-}
-   }
+    splits {
+        abi {
+            enable true
+            reset()
+            universalApk false
+            include 'mdpi', 'hdpi', 'xhdpi', 'xxhdpi', 'xxxhdpi'
+        }
+    }
 }
 ```
 
