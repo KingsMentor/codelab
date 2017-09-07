@@ -10,12 +10,17 @@ you can download vector drawable for popular icons at [materialdesignicons](http
 To enable use of vector drawable, add this to gradle.
 
 ```gradle
+
 android {
-	defaultConfigs {
-			vectorDrawables.useSupportLibrary true
-			}
-	}
+    defaultConfig {
+        vectorDrawables.useSupportLibrary true
+    }
+}
+
 ```
 
 # Results
-Here is the result so far on implementing this step.
+Here is the result so far on implementing this step.<br/>
+![using proguard result](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/multple_apk_result.png) 
+<br/>
+There is no much difference because this sample have more of png files.

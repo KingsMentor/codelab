@@ -23,3 +23,6 @@ This strips away all other string files that could’ve been added by other libr
 
 # Results
 Here is the result so far on implementing this step.
+<br/>
+![using proguard result](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/exclude_space_transalation.png) 
+

@@ -14,6 +14,3 @@ Benefits of using downloadable fonts:
 4. Entire catalog of Google fonts (over 800 of them) is available to your app.
 
 You can find more about downloadable fonts [here](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts.html).
-
-# Results
-Here is the result so far on implementing this step.

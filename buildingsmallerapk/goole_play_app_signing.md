@@ -11,7 +11,7 @@ On your request, goolge provides optimisation services. How is this possible :
 2. There's a window to apply for optimizations before re-signing with the app signing key for delivery
 3. Applying enrolls your apk for an optimisation.
 
-# The Results
+# The Result
 
 With App Optimisations, Play will be able to deliver an APK optimized for screen density and native architecture. Try this out.
 

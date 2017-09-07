@@ -62,10 +62,10 @@ For a comprehensive list of more split option, see [here](https://developer.andr
 
 # Results
 Here is the result so far on implementing this step.<br/>
-![using proguard result](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/multiple_apks.png) 
+![multiple apks](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/multiple_apks.png) 
 
-As you can see, the apks size has been drastically being reduced. Google play hanldes serving different apk based on device configuration. Let's take a look at `app-xxxhdpiX86-debug.apk` (which happends to be the largest file in there). <br/>
-![using proguard result](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/multple_apk_result.png) 
+As you can see, the apks size has been drastically being reduced. Google play hanldes serving different apk based on device configuration. Let's take a look at `app-X86-debug.apk` (which happens to be the largest file in there). <br/>
+![analysing multiple apk](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/multple_apk_result.png) 
 
 Great output right ? There's more !
 
