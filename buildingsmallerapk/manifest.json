@@ -14,7 +14,8 @@
     "exclude_sparse_translation",
     "use_downloadable_fonts",
     "use_android_asset_packaging_tool",
-    "goole_play_app_signing"
+    "goole_play_app_signing",
+    "learn_more"
   ],
   "introduction": {
     "label": "Introduction."
@@ -42,6 +43,9 @@
   },
   "goole_play_app_signing": {
     "label": "Google Play App Siginig Optimisation Program."
+  },
+  "learn_more": {
+    "label": "Learn More."
   }
 
 }
