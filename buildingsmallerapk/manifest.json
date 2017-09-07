@@ -1,8 +1,8 @@
 
 {
   "title": "Best Practices to Slim Down Your App Size",
-  "home":"http://belvi.xyz",
-  "feedback_link": "http://belvi.xyz",
+  "home":"http://belvi.xyz/codelabs/",
+  "feedback_link": "http://belvi.xyz/posts/Best-Practices-to-Slim-Down-Your-App-Size",
   "showLastUpdate": true,
   "flavor":"github",
   "steps": [
