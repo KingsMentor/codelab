@@ -21,7 +21,7 @@ Android apps have well known entry point at activities, services, receivers etc.
   
 
 # Results
-Rebuilding and analysing apk after this implementation yielded this result:<br/><br/>
+Rebuilding and analysing apk after this implementation yielded this result:<br/>
 ![using proguard result](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/use_proguard.png) 
 
 As you can see , most of the code is now completely gone and the app size is considerably smaller than it was before. You can use compare with button in APK analyzer and see the difference in “classes.dex” size and also you will see the code is obfuscated.
