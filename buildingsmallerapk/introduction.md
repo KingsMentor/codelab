@@ -11,7 +11,7 @@ We all know why the application size is very important. APK size can be looked a
 ## Analysing Apk Size
 `Android studio 3.0` came with a whole lot of upgrade. Amongst which is `Analyze Apk`. This feature allows you analyse apk, showing resources in your apk and how it contribute to the final apk size. This is a great resource on focusing on resources that contribute large data to your final apk. [*learn more about analysing apk size here*](https://developer.android.com/studio/build/apk-analyzer.html)
 
-![dimersions of apk size](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/apk_dimensions.jpeg)  
+![dimersions of apk size](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/apk_analyser.png)  
 
 
 Notice that there are two columns with size information. 
