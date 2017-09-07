@@ -1,15 +1,20 @@
-Google introduce a new update to AAPT, the AAPT2.<br/>
-The AAPT is the part of the build system that process and package all your resources into the APK. The AAPT 2 is embedded by default in android studio 3.0 but it can be enable  in `canary version b` adding this line to gradle properties (`gradle.properties`).
+With Google Play App Signing, you can securely manage your app signing keys for new or existing apps. Keys are stored on the same secure infrastructure Google uses to store its own keys.
 
-```gradle
-android.enable Aapt2 = true
-```
-### BEnefits
+If you lose your keystore or think it may be compromised, Google Play App Signing makes it possible to request a reset to your upload key. If you're not enrolled in Google Play App Signing and lose your keystore, you'll need to publish a new app with a new package name.
 
-* Version Collapsing - involves figuring out the minimum version of your app and getting rid of all unnecessary resources that are not needed. It only includes the resource that your app would actually need.  
-* Resource Deduplication - find duplicate resources, get rid of them and let the system default to default configurations.
-* UTF-8 everywhere
-* smarter cruncher - smartly reduces the size of your images by optimising them. If the  image size is bigger than the optimise image size, the optimisize image size is used. Your app image size is used if otherwise.
+Signing up for this program entitles you to some benefits. 
 
-# Results
-Here is the result so far on implementing this step.
+### App Optimisation.
+On your request, goolge provides optimisation services. How is this possible :
+
+1. You provide an upload key signed APK to Google Play
+2. There's a window to apply for optimizations before re-signing with the app signing key for delivery
+3. Applying enrolls your apk for an optimisation.
+
+# The Results
+
+With App Optimisations, Play will be able to deliver an APK optimized for screen density and native architecture. Try this out.
+
+#Resource 
+[Best Practices to Slim Down Your App Size (Google I/O '17)](https://www.youtube.com/watch?v=5tdGAP927dk)
+[Securing and Optimizing Your App with Google Play App Signing (Google I/O '17)](https://www.youtube.com/watch?v=AdfKNgyT438&t=451s)
