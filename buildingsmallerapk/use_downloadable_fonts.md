@@ -3,7 +3,9 @@ Fonts are a source of bloat for apps, and they are heavy files. But you need the
 Downloadable fonts use a concept of a font provider. Font provider is a separate app that its own mission to fetch fonts, cache them, and serve them when needed.
 All apps should contact to font provider via the font’s contract APIs. This means we have one copy of the font that all apps using the same time.
 
-### Font Provider Illustration
+### Font Provider Illustration (How it works)
+
+![downloadable fonts](https://raw.githubusercontent.com/KingsMentor/codelab/master/buildingsmallerapk/imgs/downloadable-fonts-process.png)<br/>
 
 
 Benefits of using downloadable fonts:
