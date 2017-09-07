@@ -15,6 +15,6 @@ On your request, goolge provides optimisation services. How is this possible :
 
 With App Optimisations, Play will be able to deliver an APK optimized for screen density and native architecture. Try this out.
 
-#Resource 
-[Best Practices to Slim Down Your App Size (Google I/O '17)](https://www.youtube.com/watch?v=5tdGAP927dk)
+# Resource 
+[Best Practices to Slim Down Your App Size (Google I/O '17)](https://www.youtube.com/watch?v=5tdGAP927dk)<br/>
 [Securing and Optimizing Your App with Google Play App Signing (Google I/O '17)](https://www.youtube.com/watch?v=AdfKNgyT438&t=451s)
