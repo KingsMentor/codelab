@@ -1,6 +1,6 @@
 There is a need to understand that **`YOUR MILAGE MAY VARY`**
 
-It's great to see an app size reduce from 32mb to 17mb (the bearest minimal). More can be achieved based on your use case.
+It's great to see an app size reduce from 34.7mb to 15.9mb (worst case scenerio). More can be achieved based on your use case.
 
 The tricks mentioned in this codelab would go a long way helping you reduce your apk size. But most importantly, the `Apk Analyser Tool` is a great resource on understanding why your apk size is as large as it is and it would help on focusing on what needs to be focus on (in my case, the `libs`) when working on reducing your apk size.
 
