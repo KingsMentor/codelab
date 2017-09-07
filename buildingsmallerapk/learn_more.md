@@ -1,4 +1,4 @@
-There is a need to understand that **Your millage may vary**
+There is a need to understand that **`YOUR MILAGE MAY VARY`**
 
 The tricks mentioned in this codelab would go a long way helping you reduce your apk size. But most importantly, the `Apk Analyser Tool` is a great resource on understanding why your apk size is as large as it is and it would help on focusing on what needs to be focus on (in my case, the `libs`) when working on reducing your apk size.
 
