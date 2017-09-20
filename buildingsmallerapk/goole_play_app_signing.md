@@ -5,7 +5,7 @@ If you lose your keystore or think it may be compromised, Google Play App Signin
 Signing up for this program entitles you to some benefits. 
 
 ### App Optimisation.
-On your request, goolge provides optimisation services. How is this possible :
+On your request, google provides optimisation services. How is this possible :
 
 1. You provide an upload key signed APK to Google Play
 2. There's a window to apply for optimizations before re-signing with the app signing key for delivery
@@ -13,5 +13,5 @@ On your request, goolge provides optimisation services. How is this possible :
 
 # The Result
 
-With App Optimisations, Play will be able to deliver an APK optimized for screen density and native architecture. Try this out.
+With App Optimisations, Play will be able to deliver an APK optimized for screen density and native architecture.<br/> [Try this out !](https://support.google.com/googleplay/android-developer/answer/7384423?hl=en)
 
