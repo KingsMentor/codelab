@@ -1,0 +1,15 @@
+
+{
+  "title": "Exploring Android Nougat App Shortcut",
+  "home":"http://belvi.xyz/codelabs/",
+  "feedback_link": "http://belvi.xyz/posts/Best-Practices-to-Slim-Down-Your-App-Size",
+  "showLastUpdate": false,
+  "flavor":"github",
+  "steps": [
+    "introduction"
+  ],
+  "introduction": {
+    "label": "Introduction."
+  }
+
+}
