@@ -8,10 +8,14 @@
   "authorName":"Nosakhare Belvi",
   "authorLink":"http://belvi.xyz/",
   "steps": [
-    "introduction"
+    "introduction",
+    "gradleSetUp"
   ],
   "introduction": {
     "label": "Introduction."
+  },
+  "gradleSetUp": {
+    "label": "Gradle Set Up."
   }
 
 }
